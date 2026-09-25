@@ -3,4 +3,7 @@ git add
 git commit
 git log
 git help
+git branch
+git switch
+git merge
 
